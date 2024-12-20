@@ -6,3 +6,6 @@ build/
 *.obj
 *.exe
 *.log
+# Ignore private keys
+*.key
+*.pem
