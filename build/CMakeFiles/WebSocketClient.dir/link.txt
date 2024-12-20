@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/WebSocketClient.dir/src/WebSocketClient.cpp.o  -o WebSocketClient  -lpthread -lwebsockets -lssl -lcrypto 

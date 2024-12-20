@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/WebSocketServer.dir/src/Logger.cpp.o CMakeFiles/WebSocketServer.dir/src/main.cpp.o CMakeFiles/WebSocketServer.dir/src/WebSocketServer.cpp.o CMakeFiles/WebSocketServer.dir/src/WebSocketSession.cpp.o  -o WebSocketServer  -lpthread -lwebsockets -lssl -lcrypto 

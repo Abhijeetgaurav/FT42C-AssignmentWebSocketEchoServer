@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/root_certificate.hpp
+boost/asio/ssl.hpp
+-
+string
+-
+
+/home/kpit/Desktop/skt_programming/src/WebSocketClient.cpp
+root_certificate.hpp
+/home/kpit/Desktop/skt_programming/src/root_certificate.hpp
+boost/beast/core.hpp
+-
+boost/beast/ssl.hpp
+-
+boost/beast/websocket.hpp
+-
+boost/beast/websocket/ssl.hpp
+-
+boost/asio/connect.hpp
+-
+boost/asio/ip/tcp.hpp
+-
+boost/asio/ssl/stream.hpp
+-
+cstdlib
+-
+iostream
+-
+string
+-
+
