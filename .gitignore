@@ -1,0 +1,8 @@
+# Ignore build directory
+build/
+
+# Other entries
+*.o
+*.obj
+*.exe
+*.log

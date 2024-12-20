@@ -29,10 +29,10 @@ sudo apt-get install libboost-all-dev libssl-dev libwebsockets-dev cmake
 5. Run the project:
 
    Server
-       ./WebSocketServer <ip> <port>
+       ./WebSocketServer IP port
 
    Client
-       ./WebSocketClient <ip> <port> <message>
+       ./WebSocketClient IP port message
 
 **File Structure**
 
