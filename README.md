@@ -8,13 +8,13 @@ A websocket-based echo server is a full duplex communication system where both t
 
 **Install Dependencies**
 
-sudo apt-get install libboost-all-dev libssl-dev libwebsockets-dev cmake
+sudo apt-get install libboost-all-dev libssl-dev cmake
 
 **Building the Project**
 
 1. Clone the repository
    git clone <repository_url>
-   cd socket_programming
+   cd webSocketEchoServer
 
 2. Create a build directory
    mkdir build
